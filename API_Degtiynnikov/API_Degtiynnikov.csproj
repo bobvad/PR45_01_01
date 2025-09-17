@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\" />
+    <Folder Include="Context\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Model\" />
   </ItemGroup>
 
 </Project>
